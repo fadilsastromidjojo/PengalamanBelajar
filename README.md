@@ -7,7 +7,7 @@ Belajar Git dengan Github (Progres 35%)
 * Mempelajari apa itu Repository, Branch, dll
 * Mempelajari hal hal yang menarik jika menggunakan GIT pada Github
 
-**22 Agustus 2023**
+**22 Agustus 2023**  
 Belajar Git dengan Github (Progres 56%)
 * Mempelajari bagaimana membuat Repository
 * Belajar bagaimana membuat file pada repository
